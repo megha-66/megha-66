@@ -1,6 +1,6 @@
 ### Hey! This is Megha
 > I am a B.Tech CSE student from IIIT Naya Raipur. 
-> I love Github ❣️.
+> I am eager to contribute to projects.
 
 
 
