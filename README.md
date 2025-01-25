@@ -1,6 +1,6 @@
 ### Hey! This is Megha
 > I'm a B.Tech CSE student from IIIT Naya Raipur. 
-> I'm eager to contribute to open-source projects especially those in Blockchain realm.
+> I'm eager to contribute to open-source projects.
 
 
 
